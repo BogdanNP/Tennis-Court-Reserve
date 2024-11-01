@@ -20,32 +20,32 @@
 
 ### Tennis Courts Search
 <p align="middle">
-  <img src="/.documentation/Courts_Customer.png" width="400" />
-  <img src=".documentation/Courts_Customer_Search.png" width="400" /> 
+  <img src="/.documentation/Courts_Customer.png" width="250" />
+  <img src=".documentation/Courts_Customer_Search.png" width="250" /> 
 </p>
 
 * If a user is not logged in and he tires to select a court, a popup is showed.
 * If the user is logged in then he can see the details and make a reservation.
 <p align="middle">
-  <img src="/.documentation/Courts_Select_Not_LoggedIn.png" width="400" />
-  <img src="/.documentation/Courts_Tennis_Details_Default.png" width="400" />
+  <img src="/.documentation/Courts_Select_Not_LoggedIn.png" width="250" />
+  <img src="/.documentation/Courts_Tennis_Details_Default.png" width="250" />
 </p>
 
 * The user can modify the hours and the price is updated accordingly
 <p align="middle">
-  <img src="/.documentation/Courts_Tennis_Details_Default.png" width="400" />
-  <img src="/.documentation/Courts_Tennis_Details_4Hours.png" width="400" />
+  <img src="/.documentation/Courts_Tennis_Details_Default.png" width="250" />
+  <img src="/.documentation/Courts_Tennis_Details_4Hours.png" width="250" />
 </p>
 
 * The user can see pending, current and past reservations
 * Here he can access reservation options
 <p align="middle">
-  <img src="/.documentation/MyReservations_All.png" width="400" />
-  <img src="/.documentation/MyReservations_Options.png" width="400" />
+  <img src="/.documentation/MyReservations_All.png" width="250" />
+  <img src="/.documentation/MyReservations_Options.png" width="250" />
 </p>
 <p align="middle">
-  <img src="/.documentation/Courts_TSelectAndReserve.png" width="400" />
-  <img src="/.documentation/MyReservations_Updated.png" width="400" />
+  <img src="/.documentation/Courts_TSelectAndReserve.png" width="250" />
+  <img src="/.documentation/MyReservations_Updated.png" width="250" />
 </p>
 
 ### Not Logged In Profile | Logged In Profile | Membership Plan Activated Profile
@@ -75,11 +75,11 @@
   <img src="/.documentation/TennisCourt_Edit_NewName.png" width="250" />
 </p>
 
-* Hosts can view reservations by tapping on court card
+* Hosts can view reservations and accept/decline them
 <p align="middle">
   <img src="/.documentation/TennisCourt_ViewReservations.png" width="250" />
-  <img src="/.documentation/TennisCourt_ViewReservations_Accept.png" width="250" />
   <img src="/.documentation/TennisCourt_ViewReservations_InPending.png" width="250" />
+  <img src="/.documentation/TennisCourt_ViewReservations_Accept.png" width="250" />
 </p>
 
 ![](.documentation/Z_ResetPassword.mp4)

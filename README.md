@@ -82,4 +82,5 @@
   <img src="/.documentation/TennisCourt_ViewReservations_Accept.png" width="250" />
 </p>
 
-![](.documentation/Z_ResetPassword.mp4)
+https://github.com/user-attachments/assets/8f596a49-e128-4346-9858-e23942147f97
+

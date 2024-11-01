@@ -12,11 +12,19 @@
 ## Presenting the app
 
 <p float="middle">
-  <img src="/.documentation/Auth_Forgot_Password.png" width="400" />
-  <img src=".documentation/Auth_Login.png" width="400" /> 
+  <img src="/.documentation/Auth_Register.png" width="250" />
+  <img src=".documentation/Auth_Login.png" width="250" /> 
+  <img src=".documentation/Auth_Forgot_Password.png" width="250" /> 
 </p>
 
-![](.documentation/Auth_Forgot_Password.png) ![](.documentation/Auth_Login.png) ![](.documentation/Auth_Register.png)
+<p float="middle">
+  <img src="/.documentation/Courts_Customer.png" width="400" />
+  <img src=".documentation/Courts_Customer_Search.png" width="400" /> 
+</p>
+
+![](.documentation/Auth_Forgot_Password.png)
+![](.documentation/Auth_Login.png)
+![](.documentation/Auth_Register.png)
 ![](.documentation/Courts_Customer.png)
 ![](.documentation/Courts_Customer_Search.png)
 ![](.documentation/Courts_Select_Not_LoggedIn.png)

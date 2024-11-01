@@ -18,7 +18,7 @@
   <img src=".documentation/Auth_Forgot_Password.png" width="250" /> 
 </p>
 
-* Forgot Password Feature - Deeplinks
+* Forgot Password Feature - Deeplinks  
 https://github.com/user-attachments/assets/8f596a49-e128-4346-9858-e23942147f97
 
 ### Tennis Courts Search

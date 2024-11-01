@@ -43,11 +43,13 @@
   <img src="/.documentation/MyReservations_All.png" width="400" />
   <img src="/.documentation/MyReservations_Options.png" width="400" />
 </p>
+<p align="middle">
+  <img src="/.documentation/Courts_TSelectAndReserve.png" width="400" />
+  <img src="/.documentation/MyReservations_Updated.png" width="400" />
+</p>
 
 
 
-![](.documentation/Courts_TSelectAndReserve.png)
-![](.documentation/MyReservations_Updated.png)
 ![](.documentation/Profile_LoggedIn.png)
 ![](.documentation/Profile_LoggedIn_GoldPlan.png)
 ![](.documentation/Profile_Not_LoggedIn.png)

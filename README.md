@@ -48,11 +48,23 @@
   <img src="/.documentation/MyReservations_Updated.png" width="400" />
 </p>
 
+### Not Logged In Profile | Logged In Profile | Membership Plan Activated Profile
+* User can login and logout 
+* User can activate / deactivate membership plans
+* If a membership plan is active, then the user does not need to pay the reservation, and the price is 0
+<p align="middle">
+  <img src="/.documentation/Profile_Not_LoggedIn.png" width="250" />
+  <img src="/.documentation/Profile_LoggedIn.png" width="250" />
+  <img src="/.documentation/Profile_LoggedIn_GoldPlan.png" width="250" />
+</p>
 
+### Host - Add Tennis Court
+<p align="middle">
+  <img src="/.documentation/TennisCourt_Add.png" width="250" />
+  <img src="/.documentation/TennisCourt_Add_Filled.png" width="250" />
+  <img src="/.documentation/TennisCourt_Add_MyCourts.png" width="250" />
+</p>
 
-![](.documentation/Profile_LoggedIn.png)
-![](.documentation/Profile_LoggedIn_GoldPlan.png)
-![](.documentation/Profile_Not_LoggedIn.png)
 ![](.documentation/TennisCourt_Add.png)
 ![](.documentation/TennisCourt_Add_Filled.png)
 ![](.documentation/TennisCourt_Add_MyCourts.png)

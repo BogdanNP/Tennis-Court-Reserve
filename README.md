@@ -11,9 +11,7 @@
 
 ## Presenting the app
 
-![](.documentation/Auth_Forgot_Password.png)
-![](.documentation/Auth_Login.png)
-![](.documentation/Auth_Register.png)
+![](.documentation/Auth_Forgot_Password.png) ![](.documentation/Auth_Login.png) ![](.documentation/Auth_Register.png)
 ![](.documentation/Courts_Customer.png)
 ![](.documentation/Courts_Customer_Search.png)
 ![](.documentation/Courts_Select_Not_LoggedIn.png)

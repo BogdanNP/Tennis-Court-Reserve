@@ -64,12 +64,11 @@
   <img src="/.documentation/TennisCourt_Add_Filled.png" width="250" />
   <img src="/.documentation/TennisCourt_Add_MyCourts.png" width="250" />
 </p>
+<p align="middle">
+  <img src="/.documentation/TennisCourt_Add2.png" width="250" />
+  <img src="/.documentation/TennisCourt_Add2_MyCourts.png" width="250" />
+</p>
 
-![](.documentation/TennisCourt_Add.png)
-![](.documentation/TennisCourt_Add_Filled.png)
-![](.documentation/TennisCourt_Add_MyCourts.png)
-![](.documentation/TennisCourt_Add2.png)
-![](.documentation/TennisCourt_Add2_MyCourts.png)
 ![](.documentation/TennisCourt_Edit.png)
 ![](.documentation/TennisCourt_Edit_NewName.png)
 ![](.documentation/TennisCourt_ViewReservations.png)

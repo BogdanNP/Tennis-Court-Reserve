@@ -38,16 +38,15 @@
 </p>
 
 * The user can see pending, current and past reservations
+* Here he can access reservation options
 <p align="middle">
-  <img src="/.documentation/Courts_TSelectAndReserve.png" width="400" />
   <img src="/.documentation/MyReservations_All.png" width="400" />
+  <img src="/.documentation/MyReservations_Options.png" width="400" />
 </p>
 
 
 
 ![](.documentation/Courts_TSelectAndReserve.png)
-![](.documentation/MyReservations_All.png)
-![](.documentation/MyReservations_Options.png)
 ![](.documentation/MyReservations_Updated.png)
 ![](.documentation/Profile_LoggedIn.png)
 ![](.documentation/Profile_LoggedIn_GoldPlan.png)

@@ -59,6 +59,7 @@
 </p>
 
 ### Host - Add Tennis Court
+* Host can add tennis courts and view all their courts
 <p align="middle">
   <img src="/.documentation/TennisCourt_Add.png" width="250" />
   <img src="/.documentation/TennisCourt_Add_Filled.png" width="250" />
@@ -68,10 +69,17 @@
   <img src="/.documentation/TennisCourt_Add2.png" width="250" />
   <img src="/.documentation/TennisCourt_Add2_MyCourts.png" width="250" />
 </p>
+* Host can edit tennis court details
+<p align="middle">
+  <img src="/.documentation/TennisCourt_Edit.png" width="250" />
+  <img src="/.documentation/TennisCourt_Edit_NewName.png" width="250" />
+</p>
 
-![](.documentation/TennisCourt_Edit.png)
-![](.documentation/TennisCourt_Edit_NewName.png)
-![](.documentation/TennisCourt_ViewReservations.png)
-![](.documentation/TennisCourt_ViewReservations_Accept.png)
-![](.documentation/TennisCourt_ViewReservations_InPending.png)
+* Hosts can view reservations by tapping on court card
+<p align="middle">
+  <img src="/.documentation/TennisCourt_ViewReservations.png" width="250" />
+  <img src="/.documentation/TennisCourt_ViewReservations_Accept.png" width="250" />
+  <img src="/.documentation/TennisCourt_ViewReservations_InPending.png" width="250" />
+</p>
+
 ![](.documentation/Z_ResetPassword.mp4)

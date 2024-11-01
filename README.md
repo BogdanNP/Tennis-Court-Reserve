@@ -25,8 +25,8 @@
 </p>
 
 * If a user is not logged in and he tires to select a court, a popup is showed
-<p float="middle">
-  <img src="/.documentation/Courts_Select_Not_LoggedIn.png" width="250" />
+<p align="middle">
+  <img src="/.documentation/Courts_Select_Not_LoggedIn.png" width="400" />
 </p>
 
 ![](.documentation/Courts_Select_Not_LoggedIn.png)

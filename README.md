@@ -11,22 +11,24 @@
 
 ## Presenting the app
 
+### Register | Login | Forgot Password
 <p float="middle">
   <img src="/.documentation/Auth_Register.png" width="250" />
   <img src=".documentation/Auth_Login.png" width="250" /> 
   <img src=".documentation/Auth_Forgot_Password.png" width="250" /> 
 </p>
 
+### Tennis Courts Search
 <p float="middle">
   <img src="/.documentation/Courts_Customer.png" width="400" />
   <img src=".documentation/Courts_Customer_Search.png" width="400" /> 
 </p>
 
-![](.documentation/Auth_Forgot_Password.png)
-![](.documentation/Auth_Login.png)
-![](.documentation/Auth_Register.png)
-![](.documentation/Courts_Customer.png)
-![](.documentation/Courts_Customer_Search.png)
+* If a user is not logged in and he tires to select a court, a popup is showed
+<p float="middle">
+  <img src="/.documentation/Courts_Select_Not_LoggedIn.png" width="250" />
+</p>
+
 ![](.documentation/Courts_Select_Not_LoggedIn.png)
 ![](.documentation/Courts_Tennis_Details_Default.png)
 ![](.documentation/Courts_Tennis_Details_4Hours.png)

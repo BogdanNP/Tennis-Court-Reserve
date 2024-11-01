@@ -11,6 +11,11 @@
 
 ## Presenting the app
 
+<p float="middle">
+  <img src="/.documentation/Auth_Forgot_Password.png" width="100" />
+  <img src=".documentation/Auth_Login.png" width="100" /> 
+</p>
+
 ![](.documentation/Auth_Forgot_Password.png) ![](.documentation/Auth_Login.png) ![](.documentation/Auth_Register.png)
 ![](.documentation/Courts_Customer.png)
 ![](.documentation/Courts_Customer_Search.png)

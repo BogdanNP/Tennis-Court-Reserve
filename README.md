@@ -12,26 +12,39 @@
 ## Presenting the app
 
 ### Register | Login | Forgot Password
-<p float="middle">
+<p align="middle">
   <img src="/.documentation/Auth_Register.png" width="250" />
   <img src=".documentation/Auth_Login.png" width="250" /> 
   <img src=".documentation/Auth_Forgot_Password.png" width="250" /> 
 </p>
 
 ### Tennis Courts Search
-<p float="middle">
+<p align="middle">
   <img src="/.documentation/Courts_Customer.png" width="400" />
   <img src=".documentation/Courts_Customer_Search.png" width="400" /> 
 </p>
 
-* If a user is not logged in and he tires to select a court, a popup is showed
+* If a user is not logged in and he tires to select a court, a popup is showed.
+* If the user is logged in then he can see the details and make a reservation.
 <p align="middle">
   <img src="/.documentation/Courts_Select_Not_LoggedIn.png" width="400" />
+  <img src="/.documentation/Courts_Tennis_Details_Default.png" width="400" />
 </p>
 
-![](.documentation/Courts_Select_Not_LoggedIn.png)
-![](.documentation/Courts_Tennis_Details_Default.png)
-![](.documentation/Courts_Tennis_Details_4Hours.png)
+* The user can modify the hours and the price is updated accordingly
+<p align="middle">
+  <img src="/.documentation/Courts_Tennis_Details_Default.png" width="400" />
+  <img src="/.documentation/Courts_Tennis_Details_4Hours.png" width="400" />
+</p>
+
+* The user can see pending, current and past reservations
+<p align="middle">
+  <img src="/.documentation/Courts_TSelectAndReserve.png" width="400" />
+  <img src="/.documentation/MyReservations_All.png" width="400" />
+</p>
+
+
+
 ![](.documentation/Courts_TSelectAndReserve.png)
 ![](.documentation/MyReservations_All.png)
 ![](.documentation/MyReservations_Options.png)

@@ -12,8 +12,8 @@
 ## Presenting the app
 
 <p float="middle">
-  <img src="/.documentation/Auth_Forgot_Password.png" width="500" />
-  <img src=".documentation/Auth_Login.png" width="500" /> 
+  <img src="/.documentation/Auth_Forgot_Password.png" width="300" />
+  <img src=".documentation/Auth_Login.png" width="300" /> 
 </p>
 
 ![](.documentation/Auth_Forgot_Password.png) ![](.documentation/Auth_Login.png) ![](.documentation/Auth_Register.png)
